@@ -25,7 +25,7 @@ SECRET_KEY = '*!521w9ux-r55*0@%kg4axq&d4@ouo#epz4(73@t3k0fk)2ap*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['apostila-python.herokuapp.com']
+ALLOWED_HOSTS = ['apostila-python.herokuapp.com','apostila-python-tuxu.c9users.io']
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 
